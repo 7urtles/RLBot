@@ -1,0 +1,2 @@
+"# RLBot"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/chparmley/RLBot.gitgit push -u origin main
+"# RLBot"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/chparmley/RLBot.gitgit push -u origin main
